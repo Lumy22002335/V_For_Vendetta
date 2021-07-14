@@ -1,6 +1,6 @@
 # Game Design Document
 
-![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Title.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/V_Title.png)
 
 Developed by Luminita Postoronca, 22002335
 
@@ -117,7 +117,7 @@ V must walk around, hide, survive, and find the matches to ignite the napalm and
 
 The game will start in V&#39;s cell, the player will then follow a guard to the garden shed to get more fertilizer, as they go past the main desk V notices there's an ID Kard and a Master Key he can use to get into the labs and find the matches.
 
-![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Level_Design.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Level__Design.png)
 
 The player will be given puzzles to enter rooms (finding keys, etc) so he can find a way out of the camp. At the end V will get out of the camp through the flames.
 
