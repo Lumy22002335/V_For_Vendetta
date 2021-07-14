@@ -4,6 +4,12 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+V\ For\ Vendetta/[Ll]ibrary/
+V\ For\ Vendetta/[Tt]emp/
+V\ For\ Vendetta/[Oo]bj/
+V\ For\ Vendetta/[Bb]uild/
+V\ For\ Vendetta/[Bb]uilds/
+V\ For\ Vendetta/[Ll]ogs/
 
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
