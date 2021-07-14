@@ -19,11 +19,11 @@ Desenvolvimento de Jogos Digitais I | Videojogos | 2020/2021
 
 ## 1.1. Pitch
 
-V for Vendetta is a 2D, side-scroller, point-and-click game where the player plays as V (the main character), the player visits V&#39;s past at Larkhill Resettlement Camp. The player can walk through the various floors (-1, 0, 1, garden and garden shed). The floors have various rooms where the player can explore and complete missions. V&#39;s main mission is to get a flame to explode the whole camp.
+V for Vendetta is a 2D, side-scroller, exploration game where the player plays as V (the main character), the player visits V&#39;s past at Larkhill Resettlement Camp. The player can walk through the various floors (-1, 0, 1, garden and garden shed). The floors have various rooms where the player can explore and complete missions. V&#39;s main mission is to get a flame to explode the whole camp.
 
 ## 1.2. Genre
 
-V for Vendetta is a 2D, side-scroller, point-and-click, horror game.
+V for Vendetta is a 2D, side-scroller, exploration game.
 
 ## 1.3. Unique Selling Points
 
