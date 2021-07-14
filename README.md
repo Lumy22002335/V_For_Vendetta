@@ -1,6 +1,6 @@
 # Game Design Document
 
-![](Images\Title.png)
+![alt text](Images\Title.png)
 
 Developed by Luminita Postoronca, 22002335
 
