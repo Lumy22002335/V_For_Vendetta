@@ -1,6 +1,6 @@
 # Game Design Document
 
-![](Images\Title.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Title.png)
 
 Developed by Luminita Postoronca, 22002335
 
@@ -117,7 +117,7 @@ V must walk around, hide, survive, and find the matches to ignite the napalm and
 
 The game will start in V&#39;s cell, the player will then follow a guard to the garden shed to get more fertilizer, as they go past the main desk V notices there's an ID Kard and a Master Key he can use to get into the labs and find the matches.
 
-![](Images\Level_Design.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Level_Design.png)
 
 The player will be given puzzles to enter rooms (finding keys, etc) so he can find a way out of the camp. At the end V will get out of the camp through the flames.
 
@@ -130,33 +130,33 @@ I collected some references for the character design and scenery from games like
 
 **6.1.1. Character References**
 
-![](Images\Character_Reference_1.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Character_Reference_1.png)
 
-![](Images\Character_Reference_2.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Character_Reference_2.png)
 
 **6.1.2. Scenery Reference**
 
-![](Images\Scenery_Reference_1.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Scenery_Reference_1.png)
 
-![](Images\Scenery_Reference_2.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Scenery_Reference_2.png)
 
-![](Images\Scenery_Reference_3.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Scenery_Reference_3.png)
 
-![](Images\Scenery_Reference_4.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Scenery_Reference_4.png)
 
 ## 6.2 Player
 
 **Player Walk Cycle:**
 
-![](Images\V_Walk.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/V_Walk.png)
 
 **Player Idle Cycle:**
 
-![](Images\V_Idle.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/V_Idle.png)
 
 **Player Interact Cycle:**
 
-![](Images\V_PickUp.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/V_PickUp.png)
 
 **Player Die Cycle:**
 
@@ -166,31 +166,31 @@ I collected some references for the character design and scenery from games like
 
 **Guard Walk Cycle:**
 
-![](Images\Guard_Walk.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Guard_Walk.png)
 
 **Guard Idle Cycle:**
 
-![](Images\Guard_Idle.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Guard_Idle.png)
 
 **Guard Shoot Cycle:**
 
-![](Images\Guard_Shoot.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Guard_Shoot.png)
 
 ## 6.4 Receptionist
 
 **Receptionist Walk Cycle:**
 
-![](Images\Nurse_Walk.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Nurse_Walk.png)
 
 **Receptionist Idle Cycle:**
 
-![](Images\Nurse_Idle.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Nurse_Idle.png)
 
 ## 6.5 Ambient
 
 **Ambient Example:**
 
-![](Images\Ambient_Example.png)
+![](https://github.com/Lumy22002335/V_For_Vendetta/blob/master/Images/Ambient_Example.png)
 
 #
 # **7. Asset List**
